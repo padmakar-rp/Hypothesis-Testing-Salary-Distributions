@@ -1,8 +1,3 @@
-# Hypothesis-Testing-Salary-Distributions
-A Python-based statistical analysis tool using SciPy and Seaborn to perform independent T-tests and visualize distribution overlaps between corporate departments.
-
-[ CREATED USING GOOGLE COLAB ]
-
 # 📊 Salary Comparison Using Independent T-Test
 
 This project performs a statistical comparison of salaries between two departments using an **Independent Samples T-Test**. It generates synthetic salary data, calculates summary statistics, conducts hypothesis testing, and visualizes the distributions.
